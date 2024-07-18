@@ -6,5 +6,4 @@ Sou estudante de **Ciências da Computação** no primeiro semestre, apaixonada 
 - **Interesses:** Desenvolvimento Web, Java, Machine Learning
 
 ## 📫 Contato
-- [LinkedIn](https://www.linkedin.com/in/KassTech-28)
 - [Instagram](https://www.instagram.com/ikashfairy)
